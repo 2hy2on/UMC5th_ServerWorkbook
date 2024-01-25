@@ -34,7 +34,7 @@ jobs:
 
       - name: Grant execute permission for gradlew
         run: chmod +x ./gradlew
-        shell: bash# (6).권한 부여
+        shell: bash # (6).권한 부여
 
       - name: Build with Gradle
         run: ./gradlew clean build -x test
@@ -49,7 +49,7 @@ jobs:
 
       - name: Show Current Time
         run: echo "CurrentTime=$"
-        shell: bash# (9).확보한 시간 보여주기
+        shell: bash # (9).확보한 시간 보여주기
 
       - name: Generate deployment package
         run: |
