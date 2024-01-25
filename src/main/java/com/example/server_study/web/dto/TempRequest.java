@@ -1,4 +1,4 @@
-package com.example.server_study.web.dto;
-
-public class TempRequest {
-}
+//package com.example.server_study.web.dto;
+//
+//public class TempRequest {
+//}
