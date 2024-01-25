@@ -1,4 +1,4 @@
-package com.example.server_study.service.TempService;
-
-public class TempCommandServiceImpl {
-}
+//package com.example.server_study.service.TempService;
+//
+//public class TempCommandServiceImpl {
+//}
